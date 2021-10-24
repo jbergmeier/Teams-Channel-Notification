@@ -1,29 +1,29 @@
 {
-    "name": "teams-channel-notification-api",
-    "version": "1.0.0",
-    "description": "This API makes push notifications to teams more easy.",
-    "main": "app.js",
-    "scripts": {
-      "start": "node index.js",
-      "dev": "nodemon index.js",
-      "server": "node index.js"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git@ssh.dev.azure.com:v3/ap-DACH/DACH-IT-Services/teams-channel-notification-api"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "dependencies": {
-      "axios": "^0.21.1",
-      "body-parser": "^1.19.0",
-      "dotenv": "^8.2.0",
-      "express": "^4.17.1",
-      "helmet": "^4.3.1",
-      "morgan": "^1.10.0"
-    },
-    "devDependencies": {
-      "nodemon": "^2.0.6"
-    }
+  "name": "teams-channel-notification-api",
+  "version": "1.0.0",
+  "description": "This API makes push notifications to teams more easy.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "server": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@ssh.dev.azure.com:v3/ap-DACH/DACH-IT-Services/teams-channel-notification-api"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "helmet": "^4.3.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
   }
+}
