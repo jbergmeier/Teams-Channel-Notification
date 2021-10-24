@@ -1,2 +1,2 @@
-# Teams-Channel-Notification
-Standardize teams channel notifications
+# Introduction 
+This API makes push notifications to teams more easy.
